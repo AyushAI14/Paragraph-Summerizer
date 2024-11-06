@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Paragraph-Summerizer"
 AUTHOR_USER_NAME = " AyushAI14"
-SRC_REPO = "paragraphSummarizer"
+SRC_REPO = "Paragraph-Summerizer"
 AUTHOR_EMAIL = "ayushaiml14@gmail.com"
 
 
